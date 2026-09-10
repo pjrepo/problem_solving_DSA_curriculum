@@ -44,6 +44,7 @@ A complete, executable 16-week curriculum: 64 session plans, ~320 named LeetCode
 02-weeks/        week-01.md … week-16.md — the core deliverable
 03-reference/    Master problem index · pattern catalogue · code templates · Py/JS · complexity
 04-student/      Student handbook · progress tracker template
+05-optional-practice/  Ungraded, opt-in extra practice: 4 tracks per session, all 64 sessions
 ```
 
 ### Instructor files
@@ -63,6 +64,11 @@ A complete, executable 16-week curriculum: 64 session plans, ~320 named LeetCode
 | [`03-code-templates-python.md`](03-reference/03-code-templates-python.md) | The 21 canonical templates — teach exactly these forms |
 | [`04-python-js-cheatsheet.md`](03-reference/04-python-js-cheatsheet.md) | Side-by-side, plus the 8 JavaScript traps |
 | [`05-complexity-reference.md`](03-reference/05-complexity-reference.md) | Operation costs, the constraints→complexity shortcut |
+
+### Optional practice
+| File | Use it for |
+|---|---|
+| [`00-how-to-use-this.md`](05-optional-practice/00-how-to-use-this.md) | **Read this first.** Ungraded, opt-in extra practice for all 64 sessions — four tracks per session (Reinforce · Stretch · Revision · Interview follow-ups), 384 problems that appear nowhere in the assigned curriculum. **Never graded and never expected**, with an explicit gate telling students when not to open it: the instructor guide's warning that you should *not simply assign more volume* applies here more than anywhere else in the repo. |
 
 ---
 
